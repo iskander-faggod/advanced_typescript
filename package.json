@@ -1,0 +1,22 @@
+{
+  "name": "advanced_ts",
+  "version": "1.0.0",
+  "description": "<h1>Изучение продвинутого TypeScript</h1> <p>Каждый файл отведен на отдельную задачу для обучения, чтобы потом было удобно пройтись и посмотреть на продвинутые вещи</p> <h3>Enjoy</h3>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iskander-faggod/advanced_typescript.git"
+  },
+  "author": "Iskander Kudashev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iskander-faggod/advanced_typescript/issues"
+  },
+  "homepage": "https://github.com/iskander-faggod/advanced_typescript#readme",
+  "devDependencies": {
+    "typescript": "^4.3.4"
+  }
+}

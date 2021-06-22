@@ -20,3 +20,7 @@ console.log(merged)
 
 
 const withCount = (value: string | any[]) => ({value, count: value.length});
+
+function getObjByValue<T extends object, R extends keyof T>(obj: T, key: R) {
+    return obj[key]
+}
